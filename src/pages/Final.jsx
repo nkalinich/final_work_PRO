@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 import { useNavigate } from "react-router";
 
 import { handleScoreChnage } from "../reducer/actions";
-import img from "../components/img/start.png";
+import img from "../img/start.png";
 
 const Final = () => {
   const disptach = useDispatch();

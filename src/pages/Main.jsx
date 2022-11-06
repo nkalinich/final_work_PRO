@@ -5,7 +5,7 @@ import { Button, CircularProgress, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 
 import Axios from "../hooks/axios";
-import img from "../components/img/start.png";
+import img from "../img/start.png";
 
 
 const Setting = () => {
